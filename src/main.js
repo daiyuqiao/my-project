@@ -7,7 +7,7 @@ Vue.use(ElementUI);
 // 引入封装的router
 import router from '@/router/index'
 
-// 路由守卫 路由守卫
+// 路由守卫 路由守卫 路由守卫2
 import Bus from '@/api/bus.js'
 Vue.use(Bus)
 

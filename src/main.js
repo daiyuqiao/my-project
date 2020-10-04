@@ -5,6 +5,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI);
 // 引入封装的router
+// test3
 import router from '@/router/index'
 
 // 路由守卫 路由守卫

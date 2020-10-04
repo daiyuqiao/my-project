@@ -11,7 +11,7 @@ import router from '@/router/index'
 // 路由守卫 路由守卫
 import Bus from '@/api/bus.js'
 Vue.use(Bus)
-
+// test4
 Vue.config.productionTip = false
 
 new Vue({

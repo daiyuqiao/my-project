@@ -13,6 +13,7 @@ import Bus from '@/api/bus.js'
 Vue.use(Bus)
 // test4
 // test5
+// commit test
 Vue.config.productionTip = false
 
 new Vue({

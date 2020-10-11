@@ -14,6 +14,7 @@ Vue.use(Bus)
 // test4
 // test5
 // commit test
+// bbbbbbbbbbbbbbbbbbbbb
 Vue.config.productionTip = false
 
 new Vue({

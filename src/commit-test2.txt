@@ -8,3 +8,4 @@ test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2
 commit amend1
 commit amend2
 commit amend3
+commit amend4
